@@ -5,11 +5,12 @@
 Firstly, go to the App class in the com.sparta.mi.start folder and run the program.
 
 The program will print a selection of 3 sorting methods and you must enter which method you would like to choose.
-
-Enter the number of the sorter you want to use:
-1. BinarySorter
-2. BubbleSorter
-3. MergeSorter
+```java
+System.out.println("Enter the number of the sorter you want to use:");
+System.out.println("1. BinarySorter");
+System.out.println("2. BubbleSorter");
+System.out.println("3. MergeSorter");
+```
 
 Press enter after your selection.
 The program will then ask you to enter the size of the array you wish to enter and you must choose a number between 1 & 1000.
