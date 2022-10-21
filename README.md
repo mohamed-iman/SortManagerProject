@@ -6,10 +6,10 @@ Firstly, go to the App class in the com.sparta.mi.start folder and run the progr
 
 The program will print a selection of 3 sorting methods and you must enter which method you would like to choose.
 ```java
-System.out.println("Enter the number of the sorter you want to use:");
-System.out.println("1. BinarySorter");
-System.out.println("2. BubbleSorter");
-System.out.println("3. MergeSorter");
+Enter the number of the sorter you want to use
+1. BinarySorter
+2. BubbleSorter
+3. MergeSorter
 ```
 
 Press enter after your selection.
