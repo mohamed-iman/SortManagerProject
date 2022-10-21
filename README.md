@@ -23,7 +23,14 @@ Press enter after your selection and the program will print two arrays:
 2. The second array is the sorted array after implementing your chosen sorting method.
 
 The sorted array will also include the time taken to run the program in nanoseconds.
-
+The output will look like this:
+```java
+Here is the unsorted array generated:
+[353, 150, 158, 370, 516]
+Here is the sorted array:
+[251, 615, 772, 840, 920]
+Time taken = 17743100ns
+```
 
 ## To add your own sort method:
 1. Create a class containing your sort method within the sorters package in the com.sparta.mi file
