@@ -1,0 +1,26 @@
+2022-10-21 mergeSorter INFO Left side of array is: [251, 772] 
+2022-10-21 mergeSorter INFO Right side of array is: [840, 920, 615] 
+2022-10-21 mergeSorter INFO Left side of array is: [251] 
+2022-10-21 mergeSorter INFO Right side of array is: [772] 
+2022-10-21 merge FINE The value of 251 is less than or equal to 772 
+2022-10-21 merge FINE Adding 251 to array 
+2022-10-21 mergeSorter INFO Joining array[251, 772] 
+2022-10-21 mergeSorter INFO Left side of array is: [840] 
+2022-10-21 mergeSorter INFO Right side of array is: [920, 615] 
+2022-10-21 mergeSorter INFO Left side of array is: [920] 
+2022-10-21 mergeSorter INFO Right side of array is: [615] 
+2022-10-21 merge FINE The value of 615 is less than or equal to 920 
+2022-10-21 merge FINE Adding 615 to array 
+2022-10-21 mergeSorter INFO Joining array[615, 920] 
+2022-10-21 merge FINE The value of 615 is less than or equal to 840 
+2022-10-21 merge FINE Adding 615 to array 
+2022-10-21 merge FINE The value of 840 is less than or equal to 920 
+2022-10-21 merge FINE Adding 840 to array 
+2022-10-21 mergeSorter INFO Joining array[615, 840, 920] 
+2022-10-21 merge FINE The value of 251 is less than or equal to 615 
+2022-10-21 merge FINE Adding 251 to array 
+2022-10-21 merge FINE The value of 615 is less than or equal to 772 
+2022-10-21 merge FINE Adding 615 to array 
+2022-10-21 merge FINE The value of 772 is less than or equal to 840 
+2022-10-21 merge FINE Adding 772 to array 
+2022-10-21 mergeSorter INFO Joining array[251, 615, 772, 840, 920] 
