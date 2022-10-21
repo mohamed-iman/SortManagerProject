@@ -2,7 +2,6 @@ package com.sparta.mi.sorters;
 
 import com.sparta.mi.logging.CustomConfigureLogger;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.logging.Level;
 import java.util.logging.Logger;
